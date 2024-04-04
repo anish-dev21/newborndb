@@ -1,4 +1,4 @@
-This is a team project that I did with my classmate at my Hochschule for the database course.
+This is a team project that I did with my classmate at my Hochschule for the database course using PostGRE SQL.
 
 The main features of the project are:-
 
